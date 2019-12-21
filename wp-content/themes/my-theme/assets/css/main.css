@@ -1,0 +1,226 @@
+html {
+    
+  font-size: 62.5%;
+  font-family: 'Dosis', sans-serif;
+}
+
+
+body {
+    
+    width: 1200px;
+    color: #333;
+    margin: 0 auto;
+    padding: 0 auto;
+  
+        }
+
+header {
+    
+    background-color: #395d1a;
+    
+}
+
+
+header div {
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+header ul {
+
+    list-style-type: none;
+    display: flex;
+  
+}
+
+header ul a {
+    
+    text-decoration: none;
+    color: white;
+    padding: 0.7rem;
+    
+}
+
+#piment {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    min-height: 60rem;
+    padding-top: 3rem;
+    background-repeat: no-repeat;
+    
+}
+
+
+#contenu1 {
+    
+
+ 
+}
+
+#ct1 {
+    
+    color: grey;
+    font-size: 2rem;
+    color: #615858;
+}
+
+#ct2 {
+    
+    text-transform: uppercase;
+    font-size: 2.5rem;
+    color: #615858;
+}
+
+#ct3 {
+    
+    text-transform: uppercase;
+    font-size: 2.5rem;
+    color: #9acf64;
+}
+
+#piment button {
+    
+    text-transform: uppercase;
+    background-color: #395d1a;
+    color: white;
+    font-size:1.5rem;
+    border: none;
+    padding: 1.3rem 1.5rem;;
+    border-radius: 30px; 
+}
+
+#conference  {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    padding-top: 3rem;
+    background-repeat: no-repeat;
+    
+}
+
+#grandtitre {
+    
+    text-transform: uppercase;
+    font-size: 3rem;
+    color: #5f5656;
+    position: relative;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    letter-spacing: .4rem;
+    
+}
+
+#grandtitre:before {
+    
+    content:'';
+    position: absolute;
+    bottom: 0;
+    left: 25%;
+    right: 25%;
+    height: .1rem;
+    background: #ddd;
+    margin-top: 10px;
+}
+
+
+
+#p2 {
+    
+    color: #6a6262;
+    font-size: 2rem;
+    margin-bottom: 20rem;
+    padding: 0 350px;
+}
+
+#simpleban {
+    
+background-repeat: no-repeat;
+min-height: 20rem;
+
+
+} 
+
+#jaunatre {
+    
+    background-color: beige;
+}
+
+#auprog {
+    
+    text-transform: uppercase;
+    font-size: 3rem;
+    color: #5f5656;
+    position: relative;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    letter-spacing: .4rem;
+    text-align: center;
+    margin-top: 0;
+    padding-top: 4rem;
+    
+}
+
+#auprog:before {
+    
+    content:'';
+    position: absolute;
+    bottom: 0;
+    left: 45%;
+    right: 45%;
+    height: .1rem;
+    background: #ddd;
+    margin-top: 10px;
+    
+}
+
+#programmation {
+    
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#progmatin, #progaprem{
+    
+    width: 365px;
+    height: 300px;
+    
+}
+
+#progmatin {
+    
+    margin-right: 5rem;
+}
+
+#progaprem {
+    
+    margin-left: 0;
+}
+
+#feuillage {
+    
+    position: relative;
+    left: 80%;
+}
+
+#bouton2 {
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+    
+    
+
